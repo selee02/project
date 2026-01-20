@@ -1,5 +1,4 @@
-# project
-JOOTOPIA프로젝트에서 내가 한 부분
+# JOOTOPIA프로젝트에서 내가 한 부분
 
 ## 뉴스 감성 분석 및 파인튜닝
 
